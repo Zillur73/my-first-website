@@ -1,0 +1,18 @@
+.brothers
+{
+    border: 3px solid magenta;
+    border-radius: 10px;
+    width: 15%;
+}
+.address
+{
+    border: 0px solid blue;
+    width: 20%;
+    margin: 10px;
+    padding: 0px 0px 0px 10px;
+    float: left;
+
+}
+h3{
+    text-align: justify;
+}
